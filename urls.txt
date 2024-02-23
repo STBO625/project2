@@ -1,4 +1,6 @@
-https://www.whisthub.com/
+https://.google.com
 https://ttonline.sporta.be/
 https://competitie.vttl.be/
 https://ttonline.sporta.be/?province=4&
+192.168.1.22
+192.168.1.95
